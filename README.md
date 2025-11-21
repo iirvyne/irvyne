@@ -8,5 +8,4 @@
 
 <p align="center">I’m <b>@iirvyne</b> or just <i>irvyne</i> <br>
 - How to reach me; I've got <b>Discord</b> (Irvyne)<br>
-- Pronouns: Pup/Her<br>
-- Fun fact: ✨Bunny✨ </p>
+- Bunny </p>
