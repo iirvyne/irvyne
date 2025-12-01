@@ -17,6 +17,6 @@ Ive got <b>Matrix</b> <i>(@Irvyne:bark.lgbt)</i><br>
 <hr>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/iirvyne/irvyne/refs/heads/main/irvyne_0xDB920B15C0E27528_public.asc">My PGP Key.
+  <a href="https://raw.githubusercontent.com/iirvyne/irvyne/refs/heads/main/irvyne_public.asc">My PGP Key.
   </a>
 </p>
