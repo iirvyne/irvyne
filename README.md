@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://x.com/vacuousparasite">
-    <img src="https://raw.githubusercontent.com/irvyneuwu/irvyne/main/FBz5GvQVcA4IEwv.png" 
+    <img src="https://raw.githubusercontent.com/iirvyne/irvyne/main/assets/falling_magic.png" 
          alt="Artwork by Paradee on Twitter." />
   </a>
 </p>
@@ -17,6 +17,6 @@ Ive got <b>Matrix</b> <i>(@Irvyne:bark.lgbt)</i><br>
 <hr>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/iirvyne/irvyne/refs/heads/main/irvyne_public.asc">My PGP Key.
+  <a href="https://raw.githubusercontent.com/iirvyne/irvyne/refs/heads/main/keys/irvyne_public.asc">My PGP Key.
   </a>
 </p>
