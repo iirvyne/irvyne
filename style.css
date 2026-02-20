@@ -38,8 +38,14 @@ body {
 }
 
 main {
+	color: #afaab2;
 	text-align: center;
 	padding: 32px 16px;
+}
+main a:hover {
+	box-shadow: 0 12px 32px #AE7B8B;
+	color: #AE707F;
+
 }
 
 footer {
