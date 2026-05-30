@@ -10,7 +10,7 @@
 
 <p align="center">I’m <b>@iirvyne</b> or just <i>irvyne</i> <br>
 - How to reach me; <br>
-Ive got <b>Matrix</b> <i>(@Irvyne:matrix.irvyne.com)</i><br>
+Ive got <b>Matrix</b> <i>(@irvyne:bark.lgbt)</i><br>
 </p>
 
 <hr>
