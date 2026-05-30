@@ -39,13 +39,14 @@ body {
 }
 
 .toolbar-title {
+  color: var(--text);
 	font-size: 24px;
 	font-weight: bold;
 }
 
 .toolbar-title:hover {
-	box-shadow: 0 16px 32px var(--pink);
-
+	box-shadow: 0 12px 28px var(--pink);
+	color: var(--pink);
 }
 
 main {
@@ -130,4 +131,8 @@ footer {
 	height: 100%;
 	z-index: -1;
 	pointer-events: none;
+}
+
+.p-text {
+  color: var(--purple)
 }
